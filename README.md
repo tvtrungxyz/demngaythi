@@ -1,3 +1,3 @@
-DEM NGAY THI
+# demngaythi
 
-https://tvtrungxyz.github.io/demngaythi/
+Trang web đếm ngược kì thi tốt nghiệp THPT (THPT Quốc gia)
