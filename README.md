@@ -1,3 +1,3 @@
 # demngaythi
 
-Trang web đếm ngược kì thi tốt nghiệp THPT (THPT Quốc gia)
+Trang Web Đếm Ngược Kì Thi Tốt Nghiệp THPT Quốc Gia
